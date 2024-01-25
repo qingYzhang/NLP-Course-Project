@@ -1,0 +1,5 @@
+### Things noted after initial examination.
+
+1. There are different verses (like [Intro], [Outro]) that we need to figure out how to smartly process
+2. Some lines are empty, so we also need to figure that out.
+3. Some lines end with punctuations.

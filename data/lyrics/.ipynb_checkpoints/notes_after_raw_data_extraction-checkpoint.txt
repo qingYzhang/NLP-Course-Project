@@ -1,0 +1,5 @@
+### Things noted after initial examination.
+
+1. Last line is something like xxxxxx1234Embed
+2. First line is usually bullshit, shoulbe figure out a way using regex and clean up.
+3. There are different verses (like [Intro], [Outro])
